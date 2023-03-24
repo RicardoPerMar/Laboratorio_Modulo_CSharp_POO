@@ -1,0 +1,7 @@
+C:\Users\i40268\OneDrive - Verisk Analytics\Documents\C#\Laboratorio_Modulo_CSharp_POO\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\i40268\OneDrive - Verisk Analytics\Documents\C#\Laboratorio_Modulo_CSharp_POO\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\i40268\OneDrive - Verisk Analytics\Documents\C#\Laboratorio_Modulo_CSharp_POO\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\i40268\OneDrive - Verisk Analytics\Documents\C#\Laboratorio_Modulo_CSharp_POO\Ejercicio2\obj\Debug\Ejercicio2.csprojAssemblyReference.cache
+C:\Users\i40268\OneDrive - Verisk Analytics\Documents\C#\Laboratorio_Modulo_CSharp_POO\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\i40268\OneDrive - Verisk Analytics\Documents\C#\Laboratorio_Modulo_CSharp_POO\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\i40268\OneDrive - Verisk Analytics\Documents\C#\Laboratorio_Modulo_CSharp_POO\Ejercicio2\obj\Debug\Ejercicio2.pdb
